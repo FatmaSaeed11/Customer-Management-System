@@ -1,4 +1,4 @@
-# Coding-Bookstore-Management-System
+#Customer Management System
 
 •.Net Core Web  API project to manage the store using MySQL Database and Entity FrameWork . 
 
